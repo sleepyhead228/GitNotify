@@ -1,0 +1,25 @@
+# Rust
+/target/
+/Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+.rustrover/
+
+# Environment variables
+.env
+.env.*
+# Do not ignore the example file
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# SQLx
+sqlx-data.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
