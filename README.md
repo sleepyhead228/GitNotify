@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="pics/logo.png" alt="logo" width="150">
+</div>
+
 # GitNotify
 
 ![лого](pics/logo.png)
