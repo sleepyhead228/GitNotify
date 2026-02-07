@@ -11,4 +11,4 @@
 
 ## Демонстрация работы
 
-[Скриншот работы](pics/screenshot.png)
+![Скриншот работы](pics/screenshot.png)
